@@ -1,0 +1,16 @@
+---
+output: html_document
+---
+
+
+## Things I do when I'm not at school...
+ 
+ *I like to run! I try to run around 20-30 miles/week at the gym.* 
+ 
+ *I love to read! Here is a [link](https://www.goodreads.com/user/show/69859044-naomi-giancola) to my GoodReads.*
+ 
+*I also volunteer for various political campaigns, including Elizabeth Warren's.* 
+ 
+## Posse
+ 
+ *Here is a photo of my AMAZING Posse (I am in the first row furthest to the right).*<img src="posse.jpg" style="width:100%; border:10px solid; margin-right: 20px" align="left">

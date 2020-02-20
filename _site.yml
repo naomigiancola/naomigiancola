@@ -1,0 +1,30 @@
+name: "Naomi Giancola"
+navbar:
+  title: "Naomi Giancola"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Personal"
+      href: personal.html
+  right:
+    - text: "Press/Media"
+      href: press.html
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/naomi-giancola-244808185
+      
+output_dir: docs
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    toc_depth: 2
+    theme: cosmo
+    highlight: tango
+    df_print: paged
+    lib_dir: site_libs
+    self_contained: no
+

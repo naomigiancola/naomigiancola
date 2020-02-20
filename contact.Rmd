@@ -1,0 +1,8 @@
+---
+output: html_document
+---
+
+## Academic email: ngiancola@smith.edu
+
+## Personal Phone: 347-907-3883
+

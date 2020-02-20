@@ -1,0 +1,42 @@
+---
+output: html_document
+---
+# College Classes 
+
+Intro to Data Science (A-)
+
+Intro to Political Thinking (A-)
+
+Performing the Self in the Digital Age Writing Seminar (A)
+
+Calculus II (B)
+
+# AP Classes
+
+**Senior Year:**
+
+United States Government and Politics (5)
+
+Macroeconomics (5)
+
+English Language and Composition (5)
+
+Calculus AB (4)
+
+French Language and Culture (3)
+
+Physics C: Mechanics (3)
+
+**Junior Year:**
+
+United States History (5)
+
+Physics II (3)
+
+English Literature and Composition (3)
+
+**Sophomore Year:** 
+
+World History (3)
+
+

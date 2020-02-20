@@ -1,0 +1,15 @@
+---
+output: html_document
+---
+
+## *On this page you will find samples of my academic and professional writing*
+
+
+# Articles
+
+[Fortune](https://fortune.com/2018/03/13/march-14-student-school-national-walkout-gun-control/)
+
+# Essays 
+
+[Short Essay](short.html)
+
