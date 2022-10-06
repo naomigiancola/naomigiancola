@@ -2,7 +2,7 @@
 output: html_document
 ---
 
-## Academic email: ngiancola@smith.edu
+## ngiancola@smith.edu
 
-## Personal Phone: 347-907-3883
+## +1 347-907-3883
 

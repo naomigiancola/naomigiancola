@@ -1,42 +1,85 @@
 ---
 output: html_document
 ---
-# College Classes 
+# Classes 
+
+## Statistical and Data Sciences
 
 Intro to Data Science (A-)
 
+Calculus II (B)
+
+Communicating With Data (S)*
+
+Statistical Methods:Undergrad (S)*
+
+Intro Comp Sci Programming (A)
+
+Linear Algebra (B+)
+
+Multiple Regression (A)
+
+Research Design and Analysis (A)
+
+## Government
+
 Intro to Political Thinking (A-)
+
+International Politics (S)*
+
+Intro to Comparative Politics (A-)
+
+American Constitutional Law (B+)
+
+Global Cities (A-)
+
+Conceptualizing Democracy (A)
+
+Gender Perspectives on Human Rights (A)**
+
+Humanitarian Law & Armed Conflict (A-)**
+
+Migrant & Refugee Childrn in Europe (A)**
+
+## Others
 
 Performing the Self in the Digital Age Writing Seminar (A)
 
-Calculus II (B)
+Astronomy & Public Policy (S)*
 
-# AP Classes
+High Intermediate French (A-)
 
-**Senior Year:**
+The Meaning of Life (A)
 
-United States Government and Politics (5)
+Sustainability and Social-Ecological Systems (A)
 
-Macroeconomics (5)
+Danish Language and Culture (A-)**
 
-English Language and Composition (5)
+Ethical & Scientific Legacy of the Nazi Medical Crimes (A-)**
 
-Calculus AB (4)
 
-French Language and Culture (3)
 
-Physics C: Mechanics (3)
 
-**Junior Year:**
+### *COVID-19 interruption, all classes S/U
 
-United States History (5)
+### ** Study Abroad in Denmark (Spring 2022)
 
-Physics II (3)
 
-English Literature and Composition (3)
 
-**Sophomore Year:** 
 
-World History (3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
