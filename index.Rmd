@@ -6,25 +6,24 @@ output: html_document
 
 ## About Me
 
-I am a first year [Posse Scholar](https://www.possefoundation.org/about-posse) from Brooklyn, NY. I currently attend [Smith College](https://www.smith.edu/) as a full time student. Although I have not declared, I intend to double major in Government and Statistics and Data Science.
+I am a senior [Posse Scholar](https://www.possefoundation.org/about-posse) from Brooklyn, NY. I currently attend [Smith College](https://www.smith.edu/) as a full time student. I am a double major in Government and Statistical and Data Sciences
 
-I graduated with honors from Midwood High School in Brooklyn, NY in 2019 with a GPA of 97.17. My current GPA at Smith is 3.6. 
+I graduated high school in 2019 with honors from Midwood High School in Brooklyn, NY with a GPA of 97.17.
 
 My full resume can be accessed [here](resume.html).
 
 ## What am I doing now?
 
-Currently I am a full-time student and I partake in volunteer and club activities. 
-I am a tutor at Holyoke Homework House where I aid elementary school children in math, reading, and spelling. 
+Currently I am a full-time student and a Study Abroad Peer Advisor.
 
 ## My current classes are:
 
-Intro to Stats
+The Politics of Russia and Post-Soviet Central Asia 
 
-Intro to International Politics
+The Holocaust
 
-Astronomy and Public Policy 
+Advanced Programming in R for Data Science
 
-Communicating with Data
+Capstone in Statistical & Data Sciences 
 
 [List of Past Classes](classes.html)

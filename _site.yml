@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume.html
-    - text: "Personal"
+    - text: "Personal Information"
       href: personal.html
   right:
     - text: "Press/Media"
